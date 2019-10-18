@@ -2,6 +2,7 @@ import testing
 from sys import *
 import time
 import json
+import requests
 import replit
 variables = []
 class output:
